@@ -7,3 +7,8 @@
 	path = OCA/product-attribute
 	url = git@github.com:OCA/product-attribute.git
 	branch = 14.0
+
+[submodule "ingegniamo/stock_accounting_move_line_valorization_field"]
+	path = ingegniamo/stock_accounting_move_line_valorization_field
+	url = git@github.com:ingegniamo/stock_accounting_move_line_valorization_field.git
+	branch = 14.0
