@@ -12,3 +12,23 @@
 	path = ingegniamo/stock_accounting_move_line_valorization_field
 	url = git@github.com:ingegniamo/stock_accounting_move_line_valorization_field.git
 	branch = 14.0
+
+[submodule "OCA/stock-logistics-workflow"]
+	path = OCA/stock-logistics-workflow
+	url = git@github.com:OCA/stock-logistics-workflow.git
+	branch = 14.0
+
+[submodule "OCA/purchase-workflow"]
+	path = OCA/purchase-workflow
+	url = git@github.com:OCA/purchase-workflow.git
+	branch = 14.0
+
+[submodule "OCA/server-tools"]
+	path = OCA/server-tools
+	url = git@github.com:OCA/server-tools.git
+	branch = 14.0
+
+[submodule "ingegniamo/stock_picking_quick"]
+	path = ingegniamo/stock_picking_quick
+	url = git@github.com:ingegniamo/stock_picking_quick.git
+	branch = 14.0
