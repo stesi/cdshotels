@@ -32,3 +32,7 @@
 	path = ingegniamo/stock_picking_quick
 	url = git@github.com:ingegniamo/stock_picking_quick.git
 	branch = 14.0
+[submodule "ingegniamo/purchase_price_unit_from_subtotal"]
+	path = ingegniamo/purchase_price_unit_from_subtotal
+	url = git@github.com:ingegniamo/purchase_price_unit_from_subtotal.git
+	branch = 14.0
